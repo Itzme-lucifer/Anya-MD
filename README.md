@@ -33,10 +33,4 @@ Project created by <a href="https://github.com/Itzme-lucifer">𝙸𝚝𝚣𝚖�
     <br> 
 </p>
 
-### 𝙺𝚎𝚎𝚙 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚖𝚎
 
-
-<p align="center">
-<a href="https://instagram.com/itzme_lucifer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
-<a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
-<a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" sr
